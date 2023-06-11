@@ -14,7 +14,7 @@ The goal is to find the maximum value for `nums[index]` given the constraints.
 
 ## Solution Approach
 
-The solution utilizes a binary search algorithm to find the maximum value at the given index. The key steps of the algorithm are as follows:
+The solution utilizes a `binary search algorithm` to find the maximum value at the given index. The key steps of the algorithm are as follows:
 
 1. Set the initial search range for the maximum value to be between 1 and `maxSum`.
 2. Perform a binary search within the search range:
@@ -29,6 +29,7 @@ The solution utilizes a binary search algorithm to find the maximum value at the
 The Java code in this repository implements the above algorithm to find the maximum value at the given index in a bounded array.
 
 ## Usage
+
 
 To use the provided solution, follow these steps:
 
